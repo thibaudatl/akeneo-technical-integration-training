@@ -1,0 +1,4 @@
+vendor
+.idea/
+docker-compose.*
+code-correction/MagentoConnectorCompatibility.php
